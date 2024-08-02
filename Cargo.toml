@@ -1,0 +1,5 @@
+[package]
+name = "int_in_range_impl_kani"
+version = "0.1.0"
+edition = "2021"
+
